@@ -1,0 +1,90 @@
+{
+  "nome": {
+    "cityName": "Nome",
+    "timeZone": "America/Nome"
+  },
+  "newyork": {
+    "cityName": "NewYork",
+    "timeZone": "America/New_york"
+  },
+  "jamaica": {
+    "cityName": "Jamaica",
+    "timeZone": "America/Jamaica"
+  },
+  "losangeles": {
+    "cityName": "LosAngeles",
+    "timeZone": "America/Los_Angeles"
+  },
+  "winnipeg": {
+    "cityName": "Winnipeg",
+    "timeZone": "America/Winnipeg"
+  },
+  "juba": {
+    "cityName": "Juba",
+    "timeZone": "Africa/Juba"
+  },
+  "maseru": {
+    "cityName": "Maseru",
+    "timeZone": "Africa/Maseru"
+  },
+  "london": {
+    "cityName": "London",
+    "timeZone": "Europe/London"
+  },
+  "vienna": {
+    "cityName": "Vienna",
+    "timeZone": "Europe/Vienna"
+  },
+  "moscow": {
+    "cityName": "Moscow",
+    "timeZone": "Europe/Moscow"
+  },
+  "dublin": {
+    "cityName": "Dublin",
+    "timeZone": "Europe/Dublin"
+  },
+  "karachi": {
+    "cityName": "Karachi",
+    "timeZone": "Asia/Karachi"
+  },
+  "kolkata": {
+    "cityName": "Kolkata",
+    "timeZone": "Asia/Kolkata"
+  },
+  "yangon": {
+    "cityName": "Yangon",
+    "timeZone": "Asia/Yangon"
+  },
+  "bangkok": {
+    "cityName": "BangKok",
+    "timeZone": "Asia/BangKok"
+  },
+  "seoul": {
+    "cityName": "Seoul",
+    "timeZone": "Asia/Seoul"
+  },
+  "anadyr": {
+    "cityName": "Anadyr",
+    "timeZone": "Asia/Anadyr"
+  },
+  "brokenhill": {
+    "cityName": "BrokenHill",
+    "timeZone": "Australia/Broken_Hill"
+  },
+  "perth": {
+    "cityName": "Perth",
+    "timeZone": "Australia/Perth"
+  },
+  "auckland": {
+    "cityName": "Auckland",
+    "timeZone": "Pacific/Auckland"
+  },
+  "vostok": {
+    "cityName": "Vostok",
+    "timeZone": "Antarctica/Vostok"
+  },
+  "troll": {
+    "cityName": "Troll",
+    "timeZone": "Antarctica/Troll"
+  }
+}
