@@ -1,0 +1,22 @@
+{
+  "name": "weather-on-cities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timeZone.js","keywords": [ 
+    "weather", 
+    "data", 
+    "computation", "logic" ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjani2000/weather-on-timezone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjani2000/weather-on-timezone/issues"
+  },
+  "homepage": "https://github.com/ranjani2000/weather-on-timezone#readme"
+}
